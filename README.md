@@ -77,9 +77,12 @@ This logic can later be replaced with a more advanced Natural Language Processin
 3.Submit to receive emotion classification and confidence percentage.
 
 ## Screenshots
-![Home page with text input](./screenshots/example.png)
-![Example result showing detected emotion and confidence](./screenshots/example.png)
-![Error message when backend is offline](./screenshots/example.png)
+![Home page with text input]<img width="1920" height="1080" alt="Screenshot 2025-07-11 112451" src="https://github.com/user-attachments/assets/bde98a98-4d41-4a06-a325-952a22ab4670" />
+
+![Example result showing detected emotion and confidence]<img width="1920" height="1080" alt="Screenshot 2025-07-11 112510" src="https://github.com/user-attachments/assets/cd12f5de-da73-46f6-9d4e-c51b97fa1de2" />
+
+![Error message when backend is offline]<img width="1920" height="1080" alt="Screenshot 2025-07-11 112536" src="https://github.com/user-attachments/assets/803df2a2-5d06-4184-9e3d-ac633e7bfd2c" />
+
 
 ## Future Improvements
 * Replace keyword matching with machine learning or NLP libraries (e.g., spaCy, Transformers)
